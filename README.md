@@ -1,3 +1,2 @@
-# Hi my name is Arit Uye
-#
-## This is the REadMe file for this project ##
+#!/bin/bash
+0-hello_world
